@@ -44,7 +44,7 @@ aqui tá uma opção de emulador! [Genymotion](https://www.genymotion.com/downlo
 
 Ambos instalados 👍
 <br/>
-bash
+```bash
 você irá copiar o link do nosso repositório ,abrir o terminal e digitar:
 $ git clone o link do nosso repósitorio
 após instalado é só você inicializar a pasta com o emulador
@@ -53,7 +53,7 @@ cd nome_da_pasta
 npx react-native start
 a- android
 e prontinho!🎉
-
+```
 
 </br>
 
